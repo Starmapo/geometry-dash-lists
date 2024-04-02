@@ -17,7 +17,7 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 ## Demon Levels
 
 - [Geometry Dash Demonlist](https://pointercrate.com/demonlist/) 🎥📊📤 - Ranks the 150 hardest Demon levels in order of difficulty.
-- [All Rated Extreme Demons List](https://aredl.net/) 🎥📊 - Ranks every Extreme Demon level in order of difficulty.
+- [All Rated Extreme Demons List](https://aredl.net/) 🎥📊📤 - Ranks every Extreme Demon level in order of difficulty. ([API](https://api.aredl.net/))
 
 ## Challenge Levels
 
