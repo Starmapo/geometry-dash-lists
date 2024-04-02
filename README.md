@@ -16,6 +16,11 @@ Unless otherwise stated, each list contains only classic mode levels.
 - 📊 - The list has a stats viewer where you can see the points of individual players.
 - 📤 - The list has an API available.
 
+## General Levels
+
+- [The Hardest Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit) 🎥 - Ranks classic levels that were considered harder than the current hardest rated level at the time of their creation, in order of difficulty. ([Discord](https://discord.gg/MHx4Nbp))
+- [The Hardest Impossible Platformers List](https://docs.google.com/document/u/1/d/12HALhwObb3ER4K411XcSN8z1340Bd07acOk10aURttQ/edit) 🎥 - Ranks platformer levels that were considered harder than the current hardest rated level at the time of their creation, in order of difficulty. ([Discord](https://discord.gg/MHx4Nbp))
+
 ## Demon Levels
 
 - [Geometry Dash Demonlist](https://pointercrate.com/demonlist/) 🎥📊📤 - Ranks the 150 hardest Demon levels in order of difficulty.
