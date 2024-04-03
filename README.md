@@ -29,6 +29,8 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 - [Classic DemonList](https://www.demonlist.com/classic/rated) 📤 - Ranks the hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
 - [Platformer DemonList](https://www.demonlist.com/platformer/rated) 🎥📊📤 - Ranks the hardest platformer Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
 - [GD HRR Mobile List](https://mobilepointercrate.com/) 🎥📊 - Ranks the 100 hardest Demon levels that have been completed on high-refresh-rate mobile devices, in order of difficulty. ([Discord](https://discord.gg/4WuKex2Rss))
+- [60hz Mobile Top 100 Demons Completed](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed) 🎥📊 - Ranks the 100 hardest Demon levels that have been completed on 60hz mobile devices, in order of difficulty.
+- [60hz Mobile All Extremes](https://sites.google.com/view/gd-mobile-lists/all-extremes) 🎥📊 - Lists the hardest Demon levels that have been completed on 60hz mobile devices, grouped by tiers.
 - [Mobile World Records List](https://gdmobilewrlist.com/main) 🎥📊 - Lists world records on mobile devices for the hardest Demon levels in order of difficulty. ([Discord](https://discord.gg/9dgpqqhhc2))
 - [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/main-list) 🎥📊 - Ranks the hardest Nine Circles-themed Demon levels in order of difficulty. ([Discord](https://discord.gg/aA9Q54jNXy))
 
