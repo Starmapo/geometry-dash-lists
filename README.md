@@ -22,6 +22,7 @@ Unless otherwise stated, each list contains only classic mode levels.
 
 - [The Hardest Impossible Levels List](https://docs.google.com/document/d/1byBf60vW_Tq7TjQPyniBxQ1Iw9CtSURJU4_Cl1IziqY/edit) 🎥 - Ranks classic levels that were considered harder than the current hardest rated level at the time of their creation, in order of difficulty. ([Discord](https://discord.gg/MHx4Nbp))
 - [The Hardest Impossible Platformers List](https://docs.google.com/document/u/1/d/12HALhwObb3ER4K411XcSN8z1340Bd07acOk10aURttQ/edit) 🎥 - Ranks platformer levels that were considered harder than the current hardest rated level at the time of their creation, in order of difficulty. ([Discord](https://discord.gg/MHx4Nbp))
+- [Every Nine Circles Level](https://sites.google.com/view/nothingisscary/home/every-nine-circles-level-homepage) - A chronological list of every rated Nine Circles-themed level, along with some bonus lists like upcoming or impossible levels.
 
 ## Demon Levels
 
@@ -29,6 +30,7 @@ Unless otherwise stated, each list contains only classic mode levels.
 - [All Rated Extreme Demons List](https://aredl.net/) 🎥📊📤 - Ranks every Extreme Demon level in order of difficulty. ([Discord](https://discord.gg/aredl), [API Documentation](https://api.aredl.net/docs/index.html))
 - [Classic DemonList](https://www.demonlist.com/classic/rated) 📤 - Ranks the hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
 - [Platformer DemonList](https://www.demonlist.com/platformer/rated) 🎥📊📤 - Ranks the hardest platformer Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
+- [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/main-list) 🎥📊 - Ranks the hardest Nine Circles-themed Demon levels in order of difficulty. ([Discord](https://discord.gg/aA9Q54jNXy))
 
 ## Challenge Levels
 
