@@ -6,6 +6,8 @@ Unless otherwise stated, each list contains only classic mode levels.
 
 ## Contents
 
+- [Legend](#legend)
+- [General Levels](#general-levels)
 - [Demon Levels](#demon-levels)
 - [Challenge Levels](#challenge-levels)
 - [Other Unrated Levels](#other-unrated-levels)
