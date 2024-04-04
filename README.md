@@ -32,7 +32,7 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 - [All Rated Extreme Demons List](https://aredl.net/) 🎥📊📁📤 - Ranks every classic Extreme Demon level in order of difficulty. ([Discord](https://discord.gg/aredl), [API Documentation](https://api.aredl.net/docs/index.html))
 - [Classic DemonList](https://www.demonlist.com/classic/rated) 📤 - Ranks the hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
 - [Platformer DemonList](https://www.demonlist.com/platformer/rated) 🎥📊🛞📤 - Ranks the hardest platformer Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
-- [Insane Demon List](https://insanedemonlist.com/main) 🎥📊📁 - Ranks the 150 hardest Insane Demon levels in order of difficulty. ([Discord](https://discord.gg/7JbFjRqSQ4))
+- [Insane Demon List](https://insanedemonlist.com/main) 🎥📊📁 - Ranks the 150 hardest classic Insane Demon levels in order of difficulty. ([Discord](https://discord.gg/7JbFjRqSQ4))
 - [GD HRR Mobile List](https://mobilepointercrate.com/) 🎥📊 - Ranks the 100 hardest classic Demon levels that have been completed on high-refresh-rate mobile devices, in order of difficulty. ([Discord](https://discord.gg/4WuKex2Rss))
 - [60hz Mobile Top 100 Demons Completed](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed) 🎥📊📁 - Ranks the 100 hardest classic Demon levels that have been completed on 60hz mobile devices, in order of difficulty.
 - [60hz Mobile All Extremes](https://sites.google.com/view/gd-mobile-lists/all-extremes) 🎥📊📁 - Lists the hardest classic Demon levels that have been completed on 60hz mobile devices, grouped by tiers.
