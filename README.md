@@ -43,6 +43,10 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 - [Mobile World Records List](https://gdmobilewrlist.com/main) 🎥📊 - Lists world records on mobile devices for the hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/9dgpqqhhc2))
 - [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/main-list) 🎥📊 - Ranks the hardest classic Nine Circles-themed Demon levels in order of difficulty. ([Discord](https://discord.gg/aA9Q54jNXy))
 
+## Other Rated Levels
+
+- [Underrated Non-Demons List](https://docs.google.com/spreadsheets/d/1-Abvx7zXRAqpGFVbdTXpn6g1TRYp9WuZqW2pHWE7Dr4/edit?usp=sharing) 🗃️ - Lists non-Demon levels that are too hard for their respective rating, separated into tiers. ([Discord](https://discord.gg/RnPbkWV6dr))
+
 ## Challenge Levels
 
 - [The Challenge List](https://challengelist.gd/challenges/) 🎥📊📤 - Ranks the 100 hardest classic challenge levels in order of difficulty. ([Discord](https://discord.gg/EAuuURmH))
