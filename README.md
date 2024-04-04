@@ -29,6 +29,7 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 ## Demon Levels
 
 - [Geometry Dash Demon Progression](https://gddp.pro/) 📁 - Orders Demon levels into different tiers by difficulty so you can gradually improve in Geometry Dash. ([Discord](https://discord.gg/e2eFQ64JPD))
+- [GD Demon Ladder](https://gdladder.com/list) 🎥📁📤 - Gathers community votes to determine the difficulty tiers of Demon levels, along with the skillsets required for each one. ([Discord](https://discord.gg/gddl), [API Documentation](https://gdladder.com/api/docs))
 - [Geometry Dash Demonlist](https://pointercrate.com/demonlist/) 🎥📊📤 - Ranks the 150 hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/demonlist), [API Documentation](https://pointercrate.com/documentation/index))
 - [All Rated Extreme Demons List](https://aredl.net/) 🎥📊📁📤 - Ranks every classic Extreme Demon level in order of difficulty. ([Discord](https://discord.gg/aredl), [API Documentation](https://api.aredl.net/docs/index.html))
 - [Classic DemonList](https://www.demonlist.com/classic/rated) 📤 - Ranks the hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
