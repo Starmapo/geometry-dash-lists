@@ -32,8 +32,6 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 - [GD Demon Ladder](https://gdladder.com/list) 🎥📁📤 - Gathers community votes to determine the difficulty tiers of Demon levels, along with the skillsets required for each one. ([Discord](https://discord.gg/gddl), [API Documentation](https://gdladder.com/api/docs))
 - [Geometry Dash Demonlist](https://pointercrate.com/demonlist/) 🎥📊📤 - Ranks the 150 hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/demonlist), [API Documentation](https://pointercrate.com/documentation/index))
 - [All Rated Extreme Demons List](https://aredl.net/) 🎥📊📁📤 - Ranks every classic Extreme Demon level in order of difficulty. ([Discord](https://discord.gg/aredl), [API Documentation](https://api.aredl.net/docs/index.html))
-- [Classic DemonList](https://www.demonlist.com/classic/rated) 📤 - Ranks the hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
-- [Platformer DemonList](https://www.demonlist.com/platformer/rated) 🎥📊🛞📤 - Ranks the hardest platformer Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
 - [Non-Listworthy Extreme Demons](https://docs.google.com/spreadsheets/d/1YxUE2kkvhT2E6AjnkvTf-o8iu_shSLbuFkEFcZOvieA/edit?usp=sharing) 📊📁🗃️ - Groups Extreme Demon levels that aren't on the Demonlist into different tiers and specifies the skillsets required & a description for each one. ([Discord](https://discord.gg/vW88ZFtTY2))
 - [Insane Demon List](https://insanedemonlist.com/main) 🎥📊📁 - Ranks the 150 hardest classic Insane Demon levels in order of difficulty. ([Discord](https://discord.gg/7JbFjRqSQ4))
 - [Insane Demon Spreadsheet](https://docs.google.com/spreadsheets/d/15ehtAIpCR8s04qIb8zij9sTpUdGJbmAE_LDcfVA3tcU/edit?usp=sharing) 📁🗃️ - Groups Insane Demon levels into different tiers and specifies the skillsets required & a description for each one. ([Discord](https://discord.gg/4MhaNXjTuz))
@@ -50,14 +48,10 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 ## Challenge Levels
 
 - [The Challenge List](https://challengelist.gd/challenges/) 🎥📊📤 - Ranks the 100 hardest classic challenge levels in order of difficulty. ([Discord](https://discord.gg/EAuuURmH))
-- [Classic ChallengeList](https://www.demonlist.com/classic/challenge) 📤 - Ranks the hardest classic challenge levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
-- [Platformer ChallengeList](https://www.demonlist.com/classic/challenge) 🎥📊📤 - Ranks the hardest platformer challenge levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
 
 ## Other Unrated Levels
 
 - [Unrated Demons List](https://udl.pages.dev/#/) 🎥📊🛞 - Ranks the hardest unrated classic Demon levels in order of difficulty, including reference placements of rated Demon levels. ([Discord](https://discord.gg/Uj8m4rr8WA))
-- [Classic Unrated DemonList](https://www.demonlist.com/classic/unrated) 📤 - Ranks the hardest unrated classic Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
-- [Platformer Unrated DemonList](https://www.demonlist.com/platformer/unrated) 🎥📊📤 - Ranks the hardest unrated platformer Demon levels in order of difficulty. ([Discord](https://discord.gg/DemonListGD))
 - [The Shitty List](https://tsl.pages.dev/#/) 🎥📊📁🛞 - Lists various 1.0-themed demakes of classic levels in order from easiest to hardest. ([Discord](https://discord.gg/MApKMWZazm))
 - [The Shitty List Plus](https://tslplus.pages.dev/#/) 🎥📊📁🛞 - Ranks the 150 hardest 1.0-themed demakes of classic levels in order of difficulty. ([Discord](https://discord.gg/MApKMWZazm))
 - [The Layout List](https://laylist.pages.dev/#/) 🎥📊🛞 - Ranks the hardest classic layout levels in order of difficulty. ([Discord](https://discord.gg/K48VRsHsPE))
