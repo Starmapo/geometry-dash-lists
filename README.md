@@ -9,6 +9,7 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 - [Demon Levels](#demon-levels)
 - [Challenge Levels](#challenge-levels)
 - [Other Unrated Levels](#other-unrated-levels)
+- [Miscellaneous Lists](#miscellaneous-lists)
 
 ## Legend
 
