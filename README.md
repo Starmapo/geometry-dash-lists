@@ -31,7 +31,7 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 ## Demon Levels
 
 - [Geometry Dash Demon Progression](https://gddp.pro/) 📁 - Orders classic Demon levels into different tiers by difficulty so you can gradually improve in Geometry Dash. ([Discord](https://discord.gg/e2eFQ64JPD))
-- [GD Demon Ladder](https://gdladder.com/search) 🎥📁📤 - Gathers community votes to determine the difficulty tiers of Demon levels, along with their enjoyment & the skillsets required for each one. ([Discord](https://discord.gg/gddl), [API Documentation](https://gdladder.com/api/docs))
+- [GD Demon Ladder](https://gdladder.com/) 🎥📁📤 - Gathers community votes to determine the difficulty tiers of Demon levels, along with their enjoyment & the skillsets required for each one. ([Discord](https://discord.gg/gddl), [API Documentation](https://gdladder.com/api/docs))
 - [Geometry Dash Demonlist](https://pointercrate.com/demonlist/) 🎥📊📤 - Ranks the 150 hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/demonlist), [API Documentation](https://pointercrate.com/documentation/index))
 - [All Rated Extreme Demons List](https://aredl.net/) 🎥📊📁📤 - Ranks every classic Extreme Demon level in order of difficulty. ([Discord](https://discord.gg/aredl), [API Documentation](https://api.aredl.net/docs/index.html))
 - [Platformer Demon List (Pemonlist)](https://pemonlist.com/) 🎥📊📤 - Ranks every platformer Demon level in order of difficulty. ([Discord](https://discord.com/invite/pemonlist))
@@ -43,10 +43,12 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 - [The Medium Demon List](https://tmdl.pages.dev/#/) 🎥📊 - Ranks the 150 hardest classic Medium Demon levels in order of difficulty. ([Discord](https://discord.gg/TasrzJdRRq))
 - [Easy Demon List](https://docs.google.com/document/d/14n3gVDIq7A5uBQ4xJpnjFNmaz2Bxgbzq60MfhmgKlCw/edit) 📄 - Ranks the 100 hardest classic Easy Demon levels in order of difficulty. ([Discord](https://discord.gg/BGgMCsctha))
 - [Easiest Demons List](https://docs.google.com/document/d/1Ny3Y8pS37YPKjgKXdjQHd3KdxO9IXG_YYPzYnEDipXk/edit) 📁📄 - Ranks the 150 easiest classic Demon levels in order of ascending difficulty. ([Discord](https://discord.gg/3SFxFUBVNh]))
+- [GD LRR Demon List](https://gdlrrlist.com/) 🎥📊🛞📤 - Ranks the 150 hardest classic Demon levels that have been completed on low-refresh-rate devices, in order of difficulty. 
 - [GD HRR Mobile List](https://mobilepointercrate.com/) 🎥📊 - Ranks the 100 hardest classic Demon levels that have been completed on high-refresh-rate mobile devices, in order of difficulty. ([Discord](https://discord.gg/4WuKex2Rss))
 - [60hz Mobile Top 100 Demons Completed](https://sites.google.com/view/gd-mobile-lists/top-100-demons-completed) 🎥📊📁 - Ranks the 100 hardest classic Demon levels that have been completed on 60hz mobile devices, in order of difficulty.
 - [60hz Mobile All Extremes](https://sites.google.com/view/gd-mobile-lists/all-extremes) 🎥📊📁 - Lists the hardest classic Demon levels that have been completed on 60hz mobile devices, grouped by tiers.
 - [Mobile World Records List](https://gdmobilewrlist.com/main) 🎥📊 - Lists world records on mobile devices for the hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/9dgpqqhhc2))
+- [Shortest Demons List](https://docs.google.com/document/d/1NB9hJdMFO5ueergUgUF-SM-0c1f9evr92EWcPcWVpTI/edit) 📄 - Ranks the 100 shortest classic Demon levels in order of ascending length.
 - [Memory List/Every Rated Memory Demon](https://docs.google.com/spreadsheets/d/1yMhoHeQnkxsRSPU8sf8iFg01_sqd3M17mNUkjM4YeHE/edit) 🎥📊📁🗃️ - Ranks the hardest memory-type Demon levels in order of difficulty. Also has a section containing every memory Demon level. ([Discord](https://discord.gg/HFysUktG7p))
 - [Nine Circles Demonlist](https://sites.google.com/view/nine-circles-demonlist/main-list) 🎥📊 - Ranks the hardest classic Nine Circles-themed Demon levels in order of difficulty. ([Discord](https://discord.gg/aA9Q54jNXy))
 
@@ -68,3 +70,7 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 ## Miscellaneous Lists
 
 - [Global Stats Viewer](https://globalstatsviewer.xyz/leaderboard) 📊 - Ranks players based on their hardest demon. You need to create an account to appear here. ([Discord](https://discord.gg/rhrjDNEEuE))
+
+## Other Resources
+
+- [Song File Hub](https://songfilehub.com/home) - Collection of non-Newgrounds songs used in Geometry Dash levels, along with mashups and remixes. ([Discord](https://discord.gg/maSgd4zpEF))
