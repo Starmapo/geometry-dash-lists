@@ -32,10 +32,11 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 
 - [Geometry Dash Demon Progression](https://gddp.pro/) 📁 - Orders classic Demon levels into different tiers by difficulty so you can gradually improve in Geometry Dash. ([Discord](https://discord.gg/e2eFQ64JPD))
 - [GD Demon Ladder](https://gdladder.com/) 🎥📁📤 - Gathers community votes to determine the difficulty tiers of Demon levels, along with their enjoyment & the skillsets required for each one. ([Discord](https://discord.gg/gddl), [API Documentation](https://gdladder.com/api/docs))
+- [Platformer Demon List (Pemonlist)](https://pemonlist.com/) 🎥📊📤 - Ranks the 200 hardest platformer Demon levels in order of difficulty. ([Discord](https://discord.com/invite/pemonlist))
 - [Geometry Dash Demonlist](https://pointercrate.com/demonlist/) 🎥📊📤 - Ranks the 150 hardest classic Demon levels in order of difficulty. ([Discord](https://discord.gg/demonlist), [API Documentation](https://pointercrate.com/documentation/index))
 - [All Rated Extreme Demons List](https://aredl.net/) 🎥📊📁📤 - Ranks every classic Extreme Demon level in order of difficulty. ([Discord](https://discord.gg/aredl), [API Documentation](https://api.aredl.net/docs/index.html))
-- [Platformer Demon List (Pemonlist)](https://pemonlist.com/) 🎥📊📤 - Ranks the 200 hardest platformer Demon levels in order of difficulty. ([Discord](https://discord.com/invite/pemonlist))
 - [Non-Listworthy Extreme Demons](https://docs.google.com/spreadsheets/d/1YxUE2kkvhT2E6AjnkvTf-o8iu_shSLbuFkEFcZOvieA/edit?usp=sharing) 📊📁🗃️ - Groups Extreme Demon levels that aren't on the Demonlist into different tiers and specifies the skillsets required & a description for each one. ([Discord](https://discord.gg/vW88ZFtTY2))
+- [Extreme Demon Enjoyments List](https://docs.google.com/spreadsheets/d/1-2-n2aU__rQya_IESevHjEU0f1xbegKUZEslk7fV38Q/edit) 🗃️ - Ranks every Extreme Demon level from most to least enjoyed, according to user ratings. ([Discord](https://discord.gg/pdeZY2FU3U))
 - [Insane Demon List](https://insanedemonlist.com/main) 🎥📊📁 - Ranks the 150 hardest classic Insane Demon levels in order of difficulty. ([Discord](https://discord.gg/7JbFjRqSQ4))
 - [Insane Demon Spreadsheet](https://docs.google.com/spreadsheets/d/15ehtAIpCR8s04qIb8zij9sTpUdGJbmAE_LDcfVA3tcU/edit?usp=sharing) 📁🗃️ - Groups Insane Demon levels into different tiers and specifies the skillsets required & a description for each one. ([Discord](https://discord.gg/4MhaNXjTuz))
 - [Hard Demon List](https://hdl.pages.dev/#/) 🎥📊📁🛞 - Ranks the 150 hardest classic Hard Demon levels in order of difficulty. ([Discord](https://discord.gg/fKKWjUBfk7))
@@ -55,6 +56,7 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 ## Other Rated Levels
 
 - [Underrated Non-Demons List](https://docs.google.com/spreadsheets/d/1-Abvx7zXRAqpGFVbdTXpn6g1TRYp9WuZqW2pHWE7Dr4/edit?usp=sharing) 🗃️ - Lists non-Demon levels that are too hard for their respective rating, separated into tiers. ([Discord](https://discord.gg/RnPbkWV6dr))
+- [List of every rated level in Geometry Dash](https://docs.google.com/spreadsheets/d/1BBx9X8IYBtr7dA5cWu_smM2XBkLZzCXy7TjeEWRgag0/edit) - Like the name says, lists every rated level in Geometry Dash, as well as derated levels, map packs & gauntlets, lists, dailies & weeklies, and some statistics.
 
 ## Challenge Levels
 
@@ -69,8 +71,11 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 
 ## Miscellaneous Lists
 
+- [Hardest User Coins](https://docs.google.com/spreadsheets/d/1tmD4tonWciYLxNYveX-ceSgIWyqZkiMolLPZF6sFXjQ/edit) 🎥📊📄 - Ranks the 50 hardest user coins to obtain in rated levels, in order of difficulty. ([Discord](https://discord.gg/4U32gD6rXt))
 - [Global Stats Viewer](https://globalstatsviewer.xyz/leaderboard) 📊 - Ranks players based on their hardest demon. You need to create an account to appear here. ([Discord](https://discord.gg/rhrjDNEEuE))
 
 ## Other Resources
 
 - [Song File Hub](https://songfilehub.com/home) - Collection of non-Newgrounds songs used in Geometry Dash levels, along with mashups and remixes. ([Discord](https://discord.gg/maSgd4zpEF))
+- [PositionSwitch](https://docs.google.com/spreadsheets/d/11J28JcremydDAi6vIcQwKTNa9nfRis8O4soxE7_X5qc/edit) - Collection of StartPos Switcher copies for various demons. ([Discord](https://discord.gg/R3pGQbSEF6))
+- [Extreme Demon Database](https://docs.google.com/spreadsheets/d/1Op2E7GWlr8dl9atn-07HMUxdwgyNxG6ru7yEPvpS9uA/edit) 🗃️ - Collection of enjoyment ratings, worst fails and attempt counts for extreme demons.
