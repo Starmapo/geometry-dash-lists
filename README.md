@@ -64,7 +64,7 @@ A collection of Geometry Dash level lists, for easy access to them in one page.
 
 ## Other Unrated Levels
 
-- [Unrated Demons List](https://udl.pages.dev/#/) 🎥📊🛞 - Ranks the hardest unrated classic Demon levels in order of difficulty, including reference placements of rated Demon levels. ([Discord](https://discord.gg/Uj8m4rr8WA))
+- [Unrated Demons List](https://udl.pages.dev/#/) 🎥📊🛞 - Ranks the 150 hardest unrated classic Demon levels in order of difficulty, including reference placements of rated Demon levels. ([Discord](https://discord.gg/Uj8m4rr8WA))
 - [The Shitty List](https://tsl.pages.dev/#/) 🎥📊📁🛞 - Lists various 1.0-themed demakes of classic levels in order from easiest to hardest. ([Discord](https://discord.gg/MApKMWZazm))
 - [The Shitty List Plus](https://tslplus.pages.dev/#/) 🎥📊📁🛞 - Ranks the 150 hardest 1.0-themed demakes of classic levels in order of difficulty. ([Discord](https://discord.gg/MApKMWZazm))
 - [The Layout List](https://laylist.pages.dev/#/) 🎥📊🛞 - Ranks the hardest classic layout levels in order of difficulty. ([Discord](https://discord.gg/K48VRsHsPE))
